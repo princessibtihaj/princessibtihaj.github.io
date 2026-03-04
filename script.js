@@ -1,3 +1,10 @@
+/*
+Princess Ibtihaj
+CS492
+Prof. Madi
+File Name: style.css
+File Explanation: Stylesheet that handles the layout and Bangladesh-inspired look of my site.
+*/
 // run when page is ready
 document.addEventListener("DOMContentLoaded", function() {
   var navToggle = document.querySelector(".nav__toggle");
